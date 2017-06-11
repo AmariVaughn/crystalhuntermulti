@@ -11,7 +11,7 @@ Entity = function(param){
 		spdX:0,
 		spdY:0,
 		id:"",
-		map:'forest',
+		map:'',
 	}
 	if(param){
 		if(param.x)
